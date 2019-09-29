@@ -1,2 +1,3 @@
 ghostscript
+opencv-python-headless
 excalibur-py
